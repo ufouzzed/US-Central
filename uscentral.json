@@ -7,7 +7,7 @@
       "IconURL": "https://i.imgur.com/fnxeuWP.png",
       "DisableIconText": false,
       "IconPosition": 0,
-      "IconTextColor": 3,
+      "IconTextColor": 8,
       "OpenOnStart": true,
       "OpenOnStartOnlyNewPlayers": true,
       "UpdateInterval": 12
@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "Welcome",
           "title1": "Welcome To US-Central!",
-          "text1": "This server is in early development. \nIf you need help ask in the Discord.\nDonate; it helps run the server.\nYou can expect bugs!\n\n\n\nHERE ARE THE RULES:\nNo Racism\nNo Griefing\nNo blocking off Obelisks",
+          "text1": "<TextStyle.LightBlue>This server is in early development. \nIf you need help ask in the Discord.\nDonate; it helps run the server.\nYou can expect bugs!\n\n\n\nHERE ARE THE RULES:\nNo Racism\nNo Griefing\nNo blocking off Obelisks",
           "imageurl": "https://i.imgur.com/QRcvKBC.png"
         }
       },
