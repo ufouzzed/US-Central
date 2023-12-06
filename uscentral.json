@@ -16,9 +16,9 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "Welcome",
-          "title1": "Welcome To US-Central!",
-          "text1": "This server is in early development. \nIf you need help ask in the Discord.\nDonate; it helps run the server.\nYou can expect bugs!\n\n\n\nHERE ARE THE RULES:\nNo Racism\nNo Griefing\nNo blocking off Obelisks",
+          "buttontext": "<TextStyle.Red>Welcome</>",
+          "title1": "<TextStyle.Red>Welcome To US-Central!</>",
+          "text1": "<TextStyle.Red>This server is in early development. \nIf you need help ask in the Discord.\nDonate; it helps run the server.\nYou can expect bugs!\n\n\n\nHERE ARE THE RULES:\nNo Racism\nNo Griefing\nNo blocking off Obelisks</> ",
           "imageurl": "https://i.imgur.com/QRcvKBC.png"
         }
       },
@@ -26,8 +26,8 @@
         "tab2": {
           "layout": 2,
           "buttontext": "<TextStyle.Red>Information</>",
-          "title1": "All Our Mods:",
-          "text1": "List of Mods \n \nNanoh's Reusables (Cross Platform)\nAdditions Ascended: Archelon\nSuper Spyglass Plus\nDino Mindwipe\nSnowOwls\nPVE PLUS\nAdditions Ascended: Deinotherium\nmaewings\nAdditional Weapons:MW2022\nPelayori's Cryo Storage (Crossplay!)\nUpgrade Station\nGryphons\nVH Landscaping Mod\nAdditions Ascended: Ceratosaurus\nNet Projectile\ndditional Handheld Lights\nGrumpee Games presents: Here there be Dragons\nCliffans Weapons: Western\nKlinger Additional Ferry Boats\nBetter Rafts\nAutoDoors\n",
+          "title1": "<TextStyle.Red>All Our Mods:</>",
+          "text1": "<TextStyle.Red>List of Mods \n \nNanoh's Reusables (Cross Platform)\nAdditions Ascended: Archelon\nSuper Spyglass Plus\nDino Mindwipe\nSnowOwls\nPVE PLUS\nAdditions Ascended: Deinotherium\nmaewings\nAdditional Weapons:MW2022\nPelayori's Cryo Storage (Crossplay!)\nUpgrade Station\nGryphons\nVH Landscaping Mod\nAdditions Ascended: Ceratosaurus\nNet Projectile\ndditional Handheld Lights\nGrumpee Games presents: Here there be Dragons\nCliffans Weapons: Western\nKlinger Additional Ferry Boats\nBetter Rafts\nAutoDoors\n</>",
           "title2": "",
           "text2": "",
           "imageurl": "https://i.imgur.com/QRcvKBC.png"
